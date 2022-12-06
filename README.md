@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<br>
+<br/><br/>
 
 ### Student from :kr: Seoul, Republic of Korea 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills.<br/>
-<br><br>
+<br/><br/>
 
 ### Interest
 
@@ -33,7 +33,7 @@ open source contribution <br/>
  
 ### Latest Projects
 
-<br><br>
+<br/><br/>
 
 ### Languages and Tools
 
@@ -58,7 +58,7 @@ open source contribution <br/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 </p>
-<br><br>
+<br/><br/>
 
 ### Connect with me
 
@@ -68,6 +68,7 @@ open source contribution <br/>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
+<br/><br/>
 
 ### Status bar
   <img src="https://github-readme-stats.vercel.app/api?username=hbin007&layout=compact&show_icons=true&theme=vue&hide_border=true" />
