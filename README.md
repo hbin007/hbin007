@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 backend development <br/>
 open source contribution <br/>
+
+<br/><br/>
  
 ### Latest Projects
 
