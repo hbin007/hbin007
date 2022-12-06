@@ -27,7 +27,8 @@ backend development <br/>
 open source contribution <br/>
  
 ### Latest Projects
-[Git_merge_practice]
+
+
 
 ### Languages and Tools
 
