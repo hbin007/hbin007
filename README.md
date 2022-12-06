@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### student from :kr: Seoul, Republic of Korea 
-
+<br>
+### Student from :kr: Seoul, Republic of Korea 
+<br><br>
 ### About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills.<br/>
-
+<br><br>
 ### Interest
 
 backend development <br/>
@@ -29,7 +29,7 @@ open source contribution <br/>
 ### Latest Projects
 
 
-
+<br><br>
 ### Languages and Tools
 
 <p>
@@ -53,7 +53,7 @@ open source contribution <br/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 </p>
-
+<br><br>
 ### Connect with me
 
 <p>
