@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <br>
+
 ### Student from :kr: Seoul, Republic of Korea 
+
 <br><br>
+
 ### About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills.<br/>
 <br><br>
+
 ### Interest
 
 backend development <br/>
@@ -28,8 +33,8 @@ open source contribution <br/>
  
 ### Latest Projects
 
-
 <br><br>
+
 ### Languages and Tools
 
 <p>
@@ -54,6 +59,7 @@ open source contribution <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 </p>
 <br><br>
+
 ### Connect with me
 
 <p>
@@ -63,6 +69,6 @@ open source contribution <br/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
-<!-- status bar -->
+### Status bar
   <img src="https://github-readme-stats.vercel.app/api?username=hbin007&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbin007&layout=compact&theme=vue&hide_border=true" />
