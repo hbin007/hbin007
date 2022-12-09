@@ -63,5 +63,5 @@
   
   
 <div align=right>
-###### Life is about courage and going into the unknown
+ `alert(Life is about courage and going into the unknown)`
 </div>
