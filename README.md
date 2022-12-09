@@ -2,7 +2,7 @@
 
 ## 🌱I'm student from :kr: Seoul, Republic of Korea 
 
-<br>
+<br/>
 
 ## About me
 
@@ -20,7 +20,7 @@
 ## Latest Projects
 [Musinsa_crwaling](https://github.com/hbin007/miniproject/tree/main/musinsa_crawiling)
 
-<br><br>
+<br/><br/>
 
 ## Languages and Tools
 
