@@ -25,9 +25,9 @@
 ## Languages and Tools
 
 ### main Languages
+<p>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="50" height="50"/>
-
-<br/>
+</p>
 
 ### still Learning
 <p>
@@ -37,8 +37,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-<br/>
-
 ### using tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
@@ -46,6 +44,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
+
 <br/><br/>
 
 ## Connect with me
