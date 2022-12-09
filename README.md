@@ -62,6 +62,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbin007&layout=compact&theme=prussian&hide_border=true" />
   
   
-<div align=right>
- `alert(Life is about courage and going into the unknown)`
-</div>
+`alert(Life is about courage and going into the unknown)`
+
