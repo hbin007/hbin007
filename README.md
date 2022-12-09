@@ -28,6 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="50" height="50"/>
 
 <br/>
+
 ### still Learning
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
@@ -37,6 +38,7 @@
 </p>
 
 <br/>
+
 ### using tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
