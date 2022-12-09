@@ -42,7 +42,7 @@ Visual Studio Code
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/eclipseide.svg" width="50" height="50"/>
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png" width="50" height="50"/>
 </p>
 <br/><br/>
 
