@@ -1,27 +1,27 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🌱I'm student from :kr: Seoul, Republic of Korea 
+## 🌱I'm student from :kr: Seoul, Republic of Korea 
 
 <br><br>
 
-### About me
+## About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills.<br/>
 <br/><br/>
 
-### Interest
+## Interest
 
 📫backend development <br/>
 📫open source contribution <br/>
 📫Riot games open API
 <br/><br/>
  
-### Latest Projects
+## Latest Projects
 [Musinsa_crwaling](https://github.com/hbin007/miniproject/tree/main/musinsa_crawiling)
 
 <br><br>
 
-### Languages and Tools
+## Languages and Tools
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
@@ -45,7 +45,7 @@ Visual Studio Code
 </p>
 <br/><br/>
 
-### Connect with me
+## Connect with me
 
 <p>
 <a href="mailto:rlawnsxo0072@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
@@ -55,6 +55,6 @@ Visual Studio Code
 </p>
 <br/><br/>
 
-### Status bar
+## Status bar
   <img src="https://github-readme-stats.vercel.app/api?username=hbin007&layout=compact&show_icons=true&theme=prussian&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbin007&layout=compact&theme=prussian&hide_border=true" />
