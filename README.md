@@ -6,8 +6,9 @@
 
 ## About me
 
-:four_leaf_clover: I’m currently learning Basic Programming skills.<br/>
-<br/><br/>
+:four_leaf_clover: I’m currently learning Basic Web Programming skills.
+:four_leaf_clover: Also learning big data analytics too.
+<br/><br/><br/>
 
 ## Interest
 
