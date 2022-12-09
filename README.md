@@ -65,7 +65,7 @@ open source contribution <br/>
 <p>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Velog-20C997style=for-the-badge&logo=line&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Line-20C997style=for-the-badge&logo=line&logoColor=white"/></a>
 
 </p>
 <br/><br/>
