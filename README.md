@@ -25,7 +25,7 @@
 ## Languages and Tools
 
 ### main Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="50" height="50"/>
 
 <br/>
 ### still Learning
