@@ -2,13 +2,13 @@
 
 ## 🌱I'm student from :kr: Seoul, Republic of Korea 
 
-<br><br>
+<br>
 
 ## About me
 
-:four_leaf_clover: I’m currently learning Basic Web Programming skills.
+:four_leaf_clover: I’m currently learning Basic Web Programming skills. <br/>
 :four_leaf_clover: Also learning big data analytics too.
-<br/><br/><br/>
+<br/><br/>
 
 ## Interest
 
