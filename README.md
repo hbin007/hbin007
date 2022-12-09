@@ -56,4 +56,4 @@ Visual Studio Code
 
 ### Status bar
   <img src="https://github-readme-stats.vercel.app/api?username=hbin007&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbin007&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbin007&layout=compact&theme=prussian&hide_border=true" />
