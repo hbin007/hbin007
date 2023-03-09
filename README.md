@@ -14,7 +14,7 @@
 
 📫backend development <br/>
 📫open source contribution <br/>
-📫Riot games open API
+📫games open API
 <br/><br/>
  
 ## Latest Projects
