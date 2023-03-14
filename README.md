@@ -18,7 +18,7 @@
 <br/><br/>
  
 ## Latest Projects
-[Musinsa_crawling](https://github.com/hbin007/miniproject/tree/main/musinsa_crawiling)
+[Musinsa_crawling][https://github.com/hbin007/Projects]
 
 <br/>
 
