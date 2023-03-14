@@ -18,7 +18,7 @@
 <br/><br/>
  
 ## Latest Projects
-Projects[(https://github.com/hbin007/Projects)]
+[Projects](https://github.com/hbin007/Projects)
 
 <br/>
 
