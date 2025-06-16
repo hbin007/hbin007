@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 🌱I'm student from :kr: Seoul, Republic of Korea 
+## 
 
 <br/>
 
@@ -15,6 +15,7 @@
 📫backend development <br/>
 📫open source contribution <br/>
 📫games open API
+📫Network
 <br/><br/>
  
 ## Latest Projects
